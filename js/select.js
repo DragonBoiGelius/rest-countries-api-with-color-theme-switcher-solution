@@ -17,7 +17,7 @@ function ToggleOptions() {
 function ChooseOption(value) {
     choosedOption.text(value);
     
-    $.getScript( "main.js", function() {
+    $.getScript( "./js/main.js", function() {
         Main();
         ApplySelectFilter(value);
     });
