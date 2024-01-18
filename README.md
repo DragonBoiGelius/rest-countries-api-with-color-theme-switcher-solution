@@ -15,8 +15,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution here](https://your-solution-url.com)
-- Live Site URL: [Live site here](https://your-live-site-url.com)
+- Solution URL: [Solution here](https://www.frontendmentor.io/solutions/rest-countries-api-with-color-theme-switcher-14JJXJbcrz)
+- Live Site URL: [Live site here](https://rest-countries-api-with-color-theme-switcher-solution.vercel.app/)
 
 ### Built with
 
